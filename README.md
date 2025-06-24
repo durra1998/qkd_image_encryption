@@ -1,1 +1,1 @@
-# qkd_image_encryption
+# QKD_image_encryption
